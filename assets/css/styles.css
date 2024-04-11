@@ -14,7 +14,7 @@
 body {
     font-family: var(--primary-font) !important;
     background-color: var(--tertiary-color) !important;
-    color: var(--secondary-color)!important;
+    color: var(--secondary-color) !important;
 }
 
 .calipso {
@@ -37,13 +37,13 @@ body {
     margin-left: 3%;
 }
 
-.navbar-nav{
+.navbar-nav {
     text-align: center;
     margin-right: 6%;
 }
 
 .navbar-toggler {
-margin-right: 40px;
+    margin-right: 40px;
 }
 
 .icono {
@@ -51,7 +51,7 @@ margin-right: 40px;
 }
 
 .card {
-    background-color: var(--primary-color)!important;
+    background-color: var(--primary-color) !important;
     border-color: var(--secondary-color) !important;
     color: var(--secondary-color) !important;
 }
@@ -66,10 +66,10 @@ margin-right: 40px;
     padding: 0;
     display: flex;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
 }
 
-.redes-sociales a{
+.redes-sociales a {
     font-size: 24px;
     color: var(--secondary-color);
     margin-right: 0.7rem;
@@ -84,7 +84,7 @@ margin-right: 40px;
 }
 
 @media screen and (min-width:1023px) {
-    .navbar-nav{
-        background-color: transparent!important;
+    .navbar-nav {
+        background-color: transparent !important;
     }
 }
