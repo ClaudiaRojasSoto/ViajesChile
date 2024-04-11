@@ -56,6 +56,14 @@ body {
     color: var(--secondary-color) !important;
 }
 
+.card[data-bs-toggle="modal"] {
+    cursor: pointer;
+  }
+
+.modal-content {
+    background-color: var(--primary-color) !important;
+}
+
 .separador {
     color: var(--primary-color);
     margin-bottom: 2.5rem;
