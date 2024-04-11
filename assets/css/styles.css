@@ -64,6 +64,10 @@ body {
   background-color: var(--primary-color) !important;
 }
 
+.btn-close {
+    filter: invert(1);
+  }
+
 .separador {
   color: var(--primary-color);
   margin-bottom: 2.5rem;
