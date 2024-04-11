@@ -54,8 +54,10 @@ Welcome to the official repository of **ViajesChile** Agency, your trusted porta
 
 ### Key Features <a name="key-features"></a>
 
-- [x]
-
+- [x] **Responsive Design**: Implemented with HTML and CSS Bootstrap, ensuring a fluid user experience on any device, from mobile phones to large screens.
+- [x] **Enhanced Interactivity**: Thanks to jQuery, the page responds instantly to user interactions, providing visual feedback and dynamic functionalities without reloading the page.
+- [x] **Intuitive Navigation**: The page's structure is designed to guide users through the available information in a logical and engaging manner, facilitating access to different sections such as destinations, packages, testimonials, and contact.
+- [X] **SEO-Friendly**: The HTML structure is optimized for search engines, including the appropriate use of semantic tags and relevant metadata to improve online visibility.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,8 +102,7 @@ cd ViajesChile
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **...**
-- [ ] **...**
+- [ ] **Authentication**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
