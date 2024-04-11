@@ -1,4 +1,89 @@
-.custom-tooltip {
-    --bs-tooltip-bg: var(--bd-violet-bg);
-    --bs-tooltip-color: var(--bs-white);
-  }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #25a3b7;
+    --secondary-color: #ffffff;
+    --tertiary-color: #000000;
+    --primary-font: 'Raleway', sans-serif;
+}
+
+body {
+    font-family: var(--primary-font) !important;
+    background: var(--tertiary-color) !important;
+    color: var(--secondary-color)!important;
+}
+
+.calipso {
+    background-color: var(--primary-color);
+}
+
+.blanco {
+    color: var(--secondary-color);
+}
+
+.negro {
+    background-color: var(--tertiary-color);
+}
+
+.navbar {
+    background-color: transparent !important;
+}
+
+.navbar-brand {
+    margin-left: 3%;
+}
+
+.navbar-nav{
+    text-align: center;
+    margin-right: 6%;
+}
+
+.navbar-toggler {
+margin-right: 40px;
+}
+
+.icono {
+    min-height: 35px;
+}
+
+.card {
+    background-color: var(--primary-color)!important;
+    border-color: var(--secondary-color) !important;
+}
+
+.separador {
+    color: var(--primary-color);
+    margin-bottom: 2.5rem;
+}
+
+.redes-sociales {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.redes-sociales a{
+    font-size: 24px;
+    color: var(--secondary-color);
+    margin-right: 0.7rem;
+}
+
+.redes-sociales li {
+    list-style-type: none;
+}
+
+.redes-sociales a:hover {
+    opacity: 0.7;
+}
+
+@media screen and (min-width:1023px) {
+    .navbar-nav{
+        background-color: transparent!important;
+    }
+}
