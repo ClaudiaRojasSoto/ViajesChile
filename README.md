@@ -29,7 +29,7 @@
 
 # 📖 ViajesChile<a name="about-project"></a>
 
-Welcome to **ViajesChile**, ...
+Welcome to the official repository of **ViajesChile** Agency, your trusted portal to discover Chile&apos;s most fascinating destinations and plan your next adventures. Our mission is to provide you with a seamless user experience, helping you explore the wonders of Chile through an elegant and friendly interface.
 
 ## 💻 Link to Demo <a name="link-to-demo"></a>
 
