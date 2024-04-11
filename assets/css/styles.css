@@ -6,14 +6,14 @@
 
 :root {
     --primary-color: #25a3b7;
-    --secondary-color: #ffffff;
-    --tertiary-color: #000000;
+    --secondary-color: #fff;
+    --tertiary-color: #000;
     --primary-font: 'Raleway', sans-serif;
 }
 
 body {
     font-family: var(--primary-font) !important;
-    background: var(--tertiary-color) !important;
+    background-color: var(--tertiary-color) !important;
     color: var(--secondary-color)!important;
 }
 
@@ -53,6 +53,7 @@ margin-right: 40px;
 .card {
     background-color: var(--primary-color)!important;
     border-color: var(--secondary-color) !important;
+    color: var(--secondary-color) !important;
 }
 
 .separador {
